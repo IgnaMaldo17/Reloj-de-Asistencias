@@ -1,0 +1,112 @@
+D:\Proyectos\VB\Reloj Asistencias\Datos\bin\Debug\Datos.dll
+D:\Proyectos\VB\Reloj Asistencias\Datos\bin\Debug\Datos.pdb
+D:\Proyectos\VB\Reloj Asistencias\Datos\bin\Debug\Datos.xml
+D:\Proyectos\VB\Reloj Asistencias\Datos\obj\Debug\Datos.vbproj.AssemblyReference.cache
+D:\Proyectos\VB\Reloj Asistencias\Datos\obj\Debug\Datos.Resources.resources
+D:\Proyectos\VB\Reloj Asistencias\Datos\obj\Debug\Datos.vbproj.GenerateResource.cache
+D:\Proyectos\VB\Reloj Asistencias\Datos\obj\Debug\Datos.vbproj.CoreCompileInputs.cache
+D:\Proyectos\VB\Reloj Asistencias\Datos\obj\Debug\Datos.dll
+D:\Proyectos\VB\Reloj Asistencias\Datos\obj\Debug\Datos.xml
+D:\Proyectos\VB\Reloj Asistencias\Datos\obj\Debug\Datos.pdb
+C:\Users\Notebook\source\repos\Reloj-Asistencias\Datos\bin\Debug\Datos.dll
+C:\Users\Notebook\source\repos\Reloj-Asistencias\Datos\bin\Debug\Datos.pdb
+C:\Users\Notebook\source\repos\Reloj-Asistencias\Datos\bin\Debug\Datos.xml
+C:\Users\Notebook\source\repos\Reloj-Asistencias\Datos\obj\Debug\Datos.vbproj.AssemblyReference.cache
+C:\Users\Notebook\source\repos\Reloj-Asistencias\Datos\obj\Debug\Datos.Resources.resources
+C:\Users\Notebook\source\repos\Reloj-Asistencias\Datos\obj\Debug\Datos.vbproj.GenerateResource.cache
+C:\Users\Notebook\source\repos\Reloj-Asistencias\Datos\obj\Debug\Datos.vbproj.CoreCompileInputs.cache
+C:\Users\Notebook\source\repos\Reloj-Asistencias\Datos\obj\Debug\Datos.dll
+C:\Users\Notebook\source\repos\Reloj-Asistencias\Datos\obj\Debug\Datos.xml
+C:\Users\Notebook\source\repos\Reloj-Asistencias\Datos\obj\Debug\Datos.pdb
+C:\Users\Notebook\source\repos\Reloj-Asistencias\Datos\bin\Debug\Entidades.dll
+C:\Users\Notebook\source\repos\Reloj-Asistencias\Datos\bin\Debug\Entidades.pdb
+C:\Users\Notebook\source\repos\Reloj-Asistencias\Datos\bin\Debug\Entidades.xml
+C:\Users\Notebook\source\repos\Reloj-Asistencias\Datos\obj\Debug\Datos.vbproj.CopyComplete
+D:\Proyectos\VB\Reloj Asistencias\Datos\bin\Debug\Entidades.dll
+D:\Proyectos\VB\Reloj Asistencias\Datos\bin\Debug\Entidades.pdb
+D:\Proyectos\VB\Reloj Asistencias\Datos\bin\Debug\Entidades.xml
+D:\Proyectos\VB\Reloj Asistencias\Datos\obj\Debug\Datos.vbproj.CopyComplete
+C:\IAES\2022\21-10-22\Reloj de Asistencias\Datos\bin\Debug\Datos.dll
+C:\IAES\2022\21-10-22\Reloj de Asistencias\Datos\bin\Debug\Datos.pdb
+C:\IAES\2022\21-10-22\Reloj de Asistencias\Datos\bin\Debug\Datos.xml
+C:\IAES\2022\21-10-22\Reloj de Asistencias\Datos\bin\Debug\Entidades.dll
+C:\IAES\2022\21-10-22\Reloj de Asistencias\Datos\bin\Debug\Entidades.pdb
+C:\IAES\2022\21-10-22\Reloj de Asistencias\Datos\bin\Debug\Entidades.xml
+C:\IAES\2022\21-10-22\Reloj de Asistencias\Datos\obj\Debug\Datos.vbproj.AssemblyReference.cache
+C:\IAES\2022\21-10-22\Reloj de Asistencias\Datos\obj\Debug\Datos.Resources.resources
+C:\IAES\2022\21-10-22\Reloj de Asistencias\Datos\obj\Debug\Datos.vbproj.GenerateResource.cache
+C:\IAES\2022\21-10-22\Reloj de Asistencias\Datos\obj\Debug\Datos.vbproj.CoreCompileInputs.cache
+C:\IAES\2022\21-10-22\Reloj de Asistencias\Datos\obj\Debug\Datos.vbproj.CopyComplete
+C:\IAES\2022\21-10-22\Reloj de Asistencias\Datos\obj\Debug\Datos.dll
+C:\IAES\2022\21-10-22\Reloj de Asistencias\Datos\obj\Debug\Datos.xml
+C:\IAES\2022\21-10-22\Reloj de Asistencias\Datos\obj\Debug\Datos.pdb
+D:\VMC\Reloj de Asistencias\Datos\bin\Debug\Datos.dll
+D:\VMC\Reloj de Asistencias\Datos\bin\Debug\Datos.pdb
+D:\VMC\Reloj de Asistencias\Datos\bin\Debug\Datos.xml
+D:\VMC\Reloj de Asistencias\Datos\bin\Debug\Entidades.dll
+D:\VMC\Reloj de Asistencias\Datos\bin\Debug\Entidades.pdb
+D:\VMC\Reloj de Asistencias\Datos\bin\Debug\Entidades.xml
+D:\VMC\Reloj de Asistencias\Datos\obj\Debug\Datos.vbproj.AssemblyReference.cache
+D:\VMC\Reloj de Asistencias\Datos\obj\Debug\Datos.Resources.resources
+D:\VMC\Reloj de Asistencias\Datos\obj\Debug\Datos.vbproj.GenerateResource.cache
+D:\VMC\Reloj de Asistencias\Datos\obj\Debug\Datos.vbproj.CoreCompileInputs.cache
+D:\VMC\Reloj de Asistencias\Datos\obj\Debug\Datos.vbproj.CopyComplete
+D:\VMC\Reloj de Asistencias\Datos\obj\Debug\Datos.dll
+D:\VMC\Reloj de Asistencias\Datos\obj\Debug\Datos.xml
+D:\VMC\Reloj de Asistencias\Datos\obj\Debug\Datos.pdb
+D:\Reloj de Asistencias\Datos\bin\Debug\Datos.dll
+D:\Reloj de Asistencias\Datos\bin\Debug\Datos.pdb
+D:\Reloj de Asistencias\Datos\bin\Debug\Datos.xml
+D:\Reloj de Asistencias\Datos\bin\Debug\Entidades.dll
+D:\Reloj de Asistencias\Datos\bin\Debug\Entidades.pdb
+D:\Reloj de Asistencias\Datos\bin\Debug\Entidades.xml
+D:\Reloj de Asistencias\Datos\obj\Debug\Datos.vbproj.AssemblyReference.cache
+D:\Reloj de Asistencias\Datos\obj\Debug\Datos.Resources.resources
+D:\Reloj de Asistencias\Datos\obj\Debug\Datos.vbproj.GenerateResource.cache
+D:\Reloj de Asistencias\Datos\obj\Debug\Datos.vbproj.CoreCompileInputs.cache
+D:\Reloj de Asistencias\Datos\obj\Debug\Datos.vbproj.CopyComplete
+D:\Reloj de Asistencias\Datos\obj\Debug\Datos.dll
+D:\Reloj de Asistencias\Datos\obj\Debug\Datos.xml
+D:\Reloj de Asistencias\Datos\obj\Debug\Datos.pdb
+C:\IAES 2022\Reloj de Asistencias\Datos\bin\Debug\Datos.dll
+C:\IAES 2022\Reloj de Asistencias\Datos\bin\Debug\Datos.pdb
+C:\IAES 2022\Reloj de Asistencias\Datos\bin\Debug\Datos.xml
+C:\IAES 2022\Reloj de Asistencias\Datos\bin\Debug\Entidades.dll
+C:\IAES 2022\Reloj de Asistencias\Datos\bin\Debug\Entidades.pdb
+C:\IAES 2022\Reloj de Asistencias\Datos\bin\Debug\Entidades.xml
+C:\IAES 2022\Reloj de Asistencias\Datos\obj\Debug\Datos.vbproj.AssemblyReference.cache
+C:\IAES 2022\Reloj de Asistencias\Datos\obj\Debug\Datos.Resources.resources
+C:\IAES 2022\Reloj de Asistencias\Datos\obj\Debug\Datos.vbproj.GenerateResource.cache
+C:\IAES 2022\Reloj de Asistencias\Datos\obj\Debug\Datos.vbproj.CoreCompileInputs.cache
+C:\IAES 2022\Reloj de Asistencias\Datos\obj\Debug\Datos.vbproj.CopyComplete
+C:\IAES 2022\Reloj de Asistencias\Datos\obj\Debug\Datos.dll
+C:\IAES 2022\Reloj de Asistencias\Datos\obj\Debug\Datos.xml
+C:\IAES 2022\Reloj de Asistencias\Datos\obj\Debug\Datos.pdb
+D:\Medina\Reloj de Asistencias\Datos\bin\Debug\Datos.dll
+D:\Medina\Reloj de Asistencias\Datos\bin\Debug\Datos.pdb
+D:\Medina\Reloj de Asistencias\Datos\bin\Debug\Datos.xml
+D:\Medina\Reloj de Asistencias\Datos\bin\Debug\Entidades.dll
+D:\Medina\Reloj de Asistencias\Datos\bin\Debug\Entidades.pdb
+D:\Medina\Reloj de Asistencias\Datos\bin\Debug\Entidades.xml
+D:\Medina\Reloj de Asistencias\Datos\obj\Debug\Datos.vbproj.AssemblyReference.cache
+D:\Medina\Reloj de Asistencias\Datos\obj\Debug\Datos.Resources.resources
+D:\Medina\Reloj de Asistencias\Datos\obj\Debug\Datos.vbproj.GenerateResource.cache
+D:\Medina\Reloj de Asistencias\Datos\obj\Debug\Datos.vbproj.CoreCompileInputs.cache
+D:\Medina\Reloj de Asistencias\Datos\obj\Debug\Datos.vbproj.CopyComplete
+D:\Medina\Reloj de Asistencias\Datos\obj\Debug\Datos.dll
+D:\Medina\Reloj de Asistencias\Datos\obj\Debug\Datos.xml
+D:\Medina\Reloj de Asistencias\Datos\obj\Debug\Datos.pdb
+C:\IAES\2022\Medina\Medina Definitivo\Reloj de Asistencias\Datos\bin\Debug\Datos.dll
+C:\IAES\2022\Medina\Medina Definitivo\Reloj de Asistencias\Datos\bin\Debug\Datos.pdb
+C:\IAES\2022\Medina\Medina Definitivo\Reloj de Asistencias\Datos\bin\Debug\Datos.xml
+C:\IAES\2022\Medina\Medina Definitivo\Reloj de Asistencias\Datos\bin\Debug\Entidades.dll
+C:\IAES\2022\Medina\Medina Definitivo\Reloj de Asistencias\Datos\bin\Debug\Entidades.pdb
+C:\IAES\2022\Medina\Medina Definitivo\Reloj de Asistencias\Datos\bin\Debug\Entidades.xml
+C:\IAES\2022\Medina\Medina Definitivo\Reloj de Asistencias\Datos\obj\Debug\Datos.vbproj.AssemblyReference.cache
+C:\IAES\2022\Medina\Medina Definitivo\Reloj de Asistencias\Datos\obj\Debug\Datos.Resources.resources
+C:\IAES\2022\Medina\Medina Definitivo\Reloj de Asistencias\Datos\obj\Debug\Datos.vbproj.GenerateResource.cache
+C:\IAES\2022\Medina\Medina Definitivo\Reloj de Asistencias\Datos\obj\Debug\Datos.vbproj.CoreCompileInputs.cache
+C:\IAES\2022\Medina\Medina Definitivo\Reloj de Asistencias\Datos\obj\Debug\Datos.vbproj.CopyComplete
+C:\IAES\2022\Medina\Medina Definitivo\Reloj de Asistencias\Datos\obj\Debug\Datos.dll
+C:\IAES\2022\Medina\Medina Definitivo\Reloj de Asistencias\Datos\obj\Debug\Datos.xml
+C:\IAES\2022\Medina\Medina Definitivo\Reloj de Asistencias\Datos\obj\Debug\Datos.pdb

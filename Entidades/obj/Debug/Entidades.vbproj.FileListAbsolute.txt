@@ -1,0 +1,50 @@
+D:\Proyectos\VB\Reloj Asistencias\Entidades\bin\Debug\Entidades.dll
+D:\Proyectos\VB\Reloj Asistencias\Entidades\bin\Debug\Entidades.pdb
+D:\Proyectos\VB\Reloj Asistencias\Entidades\bin\Debug\Entidades.xml
+D:\Proyectos\VB\Reloj Asistencias\Entidades\obj\Debug\Entidades.vbproj.AssemblyReference.cache
+D:\Proyectos\VB\Reloj Asistencias\Entidades\obj\Debug\Entidades.Resources.resources
+D:\Proyectos\VB\Reloj Asistencias\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.cache
+D:\Proyectos\VB\Reloj Asistencias\Entidades\obj\Debug\Entidades.vbproj.CoreCompileInputs.cache
+D:\Proyectos\VB\Reloj Asistencias\Entidades\obj\Debug\Entidades.dll
+D:\Proyectos\VB\Reloj Asistencias\Entidades\obj\Debug\Entidades.xml
+D:\Proyectos\VB\Reloj Asistencias\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Notebook\source\repos\Reloj-Asistencias\Entidades\bin\Debug\Entidades.dll
+C:\Users\Notebook\source\repos\Reloj-Asistencias\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Notebook\source\repos\Reloj-Asistencias\Entidades\bin\Debug\Entidades.xml
+C:\Users\Notebook\source\repos\Reloj-Asistencias\Entidades\obj\Debug\Entidades.vbproj.AssemblyReference.cache
+C:\Users\Notebook\source\repos\Reloj-Asistencias\Entidades\obj\Debug\Entidades.Resources.resources
+C:\Users\Notebook\source\repos\Reloj-Asistencias\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.cache
+C:\Users\Notebook\source\repos\Reloj-Asistencias\Entidades\obj\Debug\Entidades.vbproj.CoreCompileInputs.cache
+C:\Users\Notebook\source\repos\Reloj-Asistencias\Entidades\obj\Debug\Entidades.dll
+C:\Users\Notebook\source\repos\Reloj-Asistencias\Entidades\obj\Debug\Entidades.xml
+C:\Users\Notebook\source\repos\Reloj-Asistencias\Entidades\obj\Debug\Entidades.pdb
+C:\IAES\2022\21-10-22\Reloj de Asistencias\Entidades\bin\Debug\Entidades.dll
+C:\IAES\2022\21-10-22\Reloj de Asistencias\Entidades\bin\Debug\Entidades.pdb
+C:\IAES\2022\21-10-22\Reloj de Asistencias\Entidades\bin\Debug\Entidades.xml
+C:\IAES\2022\21-10-22\Reloj de Asistencias\Entidades\obj\Debug\Entidades.vbproj.AssemblyReference.cache
+C:\IAES\2022\21-10-22\Reloj de Asistencias\Entidades\obj\Debug\Entidades.Resources.resources
+C:\IAES\2022\21-10-22\Reloj de Asistencias\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.cache
+C:\IAES\2022\21-10-22\Reloj de Asistencias\Entidades\obj\Debug\Entidades.vbproj.CoreCompileInputs.cache
+C:\IAES\2022\21-10-22\Reloj de Asistencias\Entidades\obj\Debug\Entidades.dll
+C:\IAES\2022\21-10-22\Reloj de Asistencias\Entidades\obj\Debug\Entidades.xml
+C:\IAES\2022\21-10-22\Reloj de Asistencias\Entidades\obj\Debug\Entidades.pdb
+D:\VMC\Reloj de Asistencias\Entidades\bin\Debug\Entidades.dll
+D:\VMC\Reloj de Asistencias\Entidades\bin\Debug\Entidades.pdb
+D:\VMC\Reloj de Asistencias\Entidades\bin\Debug\Entidades.xml
+D:\VMC\Reloj de Asistencias\Entidades\obj\Debug\Entidades.vbproj.AssemblyReference.cache
+D:\VMC\Reloj de Asistencias\Entidades\obj\Debug\Entidades.Resources.resources
+D:\VMC\Reloj de Asistencias\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.cache
+D:\VMC\Reloj de Asistencias\Entidades\obj\Debug\Entidades.vbproj.CoreCompileInputs.cache
+D:\VMC\Reloj de Asistencias\Entidades\obj\Debug\Entidades.dll
+D:\VMC\Reloj de Asistencias\Entidades\obj\Debug\Entidades.xml
+D:\VMC\Reloj de Asistencias\Entidades\obj\Debug\Entidades.pdb
+C:\IAES\2022\Medina\Medina Definitivo\Reloj de Asistencias\Entidades\bin\Debug\Entidades.dll
+C:\IAES\2022\Medina\Medina Definitivo\Reloj de Asistencias\Entidades\bin\Debug\Entidades.pdb
+C:\IAES\2022\Medina\Medina Definitivo\Reloj de Asistencias\Entidades\bin\Debug\Entidades.xml
+C:\IAES\2022\Medina\Medina Definitivo\Reloj de Asistencias\Entidades\obj\Debug\Entidades.vbproj.AssemblyReference.cache
+C:\IAES\2022\Medina\Medina Definitivo\Reloj de Asistencias\Entidades\obj\Debug\Entidades.Resources.resources
+C:\IAES\2022\Medina\Medina Definitivo\Reloj de Asistencias\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.cache
+C:\IAES\2022\Medina\Medina Definitivo\Reloj de Asistencias\Entidades\obj\Debug\Entidades.vbproj.CoreCompileInputs.cache
+C:\IAES\2022\Medina\Medina Definitivo\Reloj de Asistencias\Entidades\obj\Debug\Entidades.dll
+C:\IAES\2022\Medina\Medina Definitivo\Reloj de Asistencias\Entidades\obj\Debug\Entidades.xml
+C:\IAES\2022\Medina\Medina Definitivo\Reloj de Asistencias\Entidades\obj\Debug\Entidades.pdb
